@@ -1,2 +1,2 @@
 # Reloj-analogico
-Primer taller del curso co-terminal Computación Gráfica, de Ingeniería de Sistemas
+Primer taller del curso de enfasis co-terminal Computación Gráfica, de Ingeniería de Sistemas
